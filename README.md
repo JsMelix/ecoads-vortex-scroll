@@ -1,6 +1,6 @@
+```bash
 TOKEN ERC721 SCROLLSCAN TESNET NFT: 0x86Ed984F5106F5bb229415E2eF8270AE7E00A66C
-
-
+```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

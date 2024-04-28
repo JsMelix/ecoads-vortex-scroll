@@ -43,7 +43,7 @@ export const storeMetadata = async (dataObject, imageFile) => {
     name: dataObject.name,
   };
 
-  const blob = new Blob([JSON.stringify(obj)], { type: "application/json" });
+  const blob = new Blob([JSON.stringify(obj)], { type: "application/json" });  //metadata
   const files = [new File([blob], "metadata.json")];
 
   console.log("Uploading Certificate metadata to IPFS via web3.storage");
